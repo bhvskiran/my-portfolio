@@ -13,4 +13,4 @@ Packages I used -
             to get smooth scrolling in the react app with an easing animation.
             
     -  swiper
-            nklsdnkvnksdv 
+            to get different modals of swiping sliders and have a clean code.
