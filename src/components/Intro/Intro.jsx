@@ -7,8 +7,6 @@ import Instagram from '../../assets/img/instagram.png';
 import Vector1 from '../../assets/img/Vector1.png';
 import Vector2 from '../../assets/img/Vector2.png';
 import Boy from '../../assets/img/boy.png';
-import ThumbUp from '../../assets/img/thumbup.png';
-import Crown from '../../assets/img/crown.png';
 import GlassesImoji from '../../assets/img/glassesimoji.png';
 import Computer from '../../assets/3dimg/computer.png';
 import Mobile from '../../assets/3dimg/mobile.png';
